@@ -12,10 +12,10 @@ Created on Sun Aug 27 00:29:51 2023
 ######################################################################################################
 
 # Your PAT (Personal Access Token) can be found in the portal under Authentification
-PAT = 'YOUR_PAT_HERE'
+PAT = '51aff0b6eb384de78a8ac6bcc50a3798'
 # Specify the correct user_id/app_id pairings
 # Since you're making inferences outside your app's scope
-USER_ID = '7u55r30fqp61'
+USER_ID = 'clarifai'
 APP_ID = 'Llama2Tutorial'
 # Change these to whatever model and text URL you want to use
 WORKFLOW_ID = 'Llama2TutorialWorkflow1'
